@@ -10,9 +10,6 @@
     "type": "git",
     "url": "git+https://github.com/LexxXell/test-gh-npm.git"
   },
-  "publishConfig": {
-    "@LexxXell:registry": "https://npm.pkg.github.com"
-  },
   "author": "LexxXell",
   "license": "ISC",
   "bugs": {
