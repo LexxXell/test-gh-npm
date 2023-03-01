@@ -1,0 +1,19 @@
+{
+  "name": "@lexxxell/test-gh-npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LexxXell/test-gh-npm.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LexxXell/test-gh-npm/issues"
+  },
+  "homepage": "https://github.com/LexxXell/test-gh-npm#readme"
+}
